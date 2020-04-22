@@ -4,29 +4,31 @@ import data from '../data/data';
 class Lectures extends Component {
   render() {
     return (
-      <div>
+      <main className="section">
         {data.map(result => {
           return (
-            <section key={result.id} className="section">
-              <div className="container">
-                {result.title}
-                <article className="media">
-                  <div className="media-content">
+            <div className="container lectureContainer" key={result.id}>
+              <h3 className="title">{result.title}</h3>
+              <article className="media">
+                <div className="media-content">
+                  <div className="columns is-multiline">
                     {
                       result.video.map(url => {
                         return (
-                          <iframe class="lectureVideo" allowfullscreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src={url} id="widget34" width="640" height="360" frameborder="0">
-                          </iframe>
+                          <div className="column is-4">
+                            <iframe className="lectureVideo" allowfullscreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src={url} width="640" height="360" frameborder="0">
+                            </iframe>
+                          </div>
                         )
                       })
                     }
                   </div>
-                </article>
-              </div>
-            </section>
+                </div>
+              </article>
+            </div>
           )
         })}
-      </div>
+      </main>
     )
   }
 }
