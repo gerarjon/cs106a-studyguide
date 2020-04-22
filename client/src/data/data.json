@@ -38,5 +38,17 @@
       "https://www.youtube.com/embed/wEbmXvfl8TM?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=9",
       "https://www.youtube.com/embed/oUuIMt5KmyQ?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=11"
     ]
+  },
+  {
+    "id" : 5,
+    "title" : "Lecture 5 - Expressions",
+    "video" : [
+      "https://www.youtube.com/embed/YwePpeJn828?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=7",
+      "https://www.youtube.com/embed/iTBsRFnaoJ0?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=9",
+      "https://www.youtube.com/embed/sAo9IdC223s?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=11",
+      "https://www.youtube.com/embed/H90Ud28sedo?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=13",
+      "https://www.youtube.com/embed/SQ2_cDLgrHI?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=15",
+      "https://www.youtube.com/embed/_rMzEF0v6UI?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=17"
+    ]
   }
 ]
