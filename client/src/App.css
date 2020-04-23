@@ -19,6 +19,10 @@ hr {
   height: 200px;
 }
 
+.navbar-brand .navbar-item {
+  font-size: 1.4rem;
+}
+
 .section {
   padding: 1rem;
 }

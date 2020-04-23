@@ -36,6 +36,7 @@ class Lectures extends Component {
             )
           })}
         </section>
+        <div style={{height: "200px"}}></div>
       </main>
     )
   }
