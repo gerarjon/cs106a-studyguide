@@ -17,9 +17,9 @@ class App extends Component {
         <Router>
           <Navbar />
           <Switch>
-            <Route exact path="/" component={Lectures}>
+            <Route exact path={process.env.PUBLIC_URL + '/'} component={Lectures}>
             </Route>
-            <Route exact path="/assignments" component={Assignments}>
+            <Route exact path={process.env.PUBLIC_URL + '/assignments'} component={Assignments}>
             </Route>
           </Switch>
         </Router>

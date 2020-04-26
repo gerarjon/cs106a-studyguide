@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cs106a-studyguide/static/css/main.ef9f4fb7.chunk.css",
+    "main.js": "/cs106a-studyguide/static/js/main.3de02ddf.chunk.js",
+    "main.js.map": "/cs106a-studyguide/static/js/main.3de02ddf.chunk.js.map",
+    "runtime-main.js": "/cs106a-studyguide/static/js/runtime-main.f0f26d9c.js",
+    "runtime-main.js.map": "/cs106a-studyguide/static/js/runtime-main.f0f26d9c.js.map",
+    "static/css/2.cd1899df.chunk.css": "/cs106a-studyguide/static/css/2.cd1899df.chunk.css",
+    "static/js/2.0b80d715.chunk.js": "/cs106a-studyguide/static/js/2.0b80d715.chunk.js",
+    "static/js/2.0b80d715.chunk.js.map": "/cs106a-studyguide/static/js/2.0b80d715.chunk.js.map",
+    "index.html": "/cs106a-studyguide/index.html",
+    "precache-manifest.75c1847a3467e74f8446f7c16062bcad.js": "/cs106a-studyguide/precache-manifest.75c1847a3467e74f8446f7c16062bcad.js",
+    "service-worker.js": "/cs106a-studyguide/service-worker.js",
+    "static/css/2.cd1899df.chunk.css.map": "/cs106a-studyguide/static/css/2.cd1899df.chunk.css.map",
+    "static/css/main.ef9f4fb7.chunk.css.map": "/cs106a-studyguide/static/css/main.ef9f4fb7.chunk.css.map",
+    "static/js/2.0b80d715.chunk.js.LICENSE.txt": "/cs106a-studyguide/static/js/2.0b80d715.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0f26d9c.js",
+    "static/css/2.cd1899df.chunk.css",
+    "static/js/2.0b80d715.chunk.js",
+    "static/css/main.ef9f4fb7.chunk.css",
+    "static/js/main.3de02ddf.chunk.js"
+  ]
+}

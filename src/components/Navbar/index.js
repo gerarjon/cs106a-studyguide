@@ -8,16 +8,16 @@ const Navbar = () => {
       <div className="container">
         {/* Brand */}
         <div className="navbar-brand">
-          <Link className="navbar-item" to="/">
+          <Link className="navbar-item" to={process.env.PUBLIC_URL + '/'}>
             Just a Study Guide
           </Link>
         </div>
         {/* Menu */}
         <div className="navbar-menu is-active">
-          <Link className="navbar-item" to="/">
+          <Link className="navbar-item" to={process.env.PUBLIC_URL + '/'}>
             Lectures
           </Link>
-          <Link className="navbar-item" to="/assignments">
+          <Link className="navbar-item" to={process.env.PUBLIC_URL + '/assignments'}>
             Assignments
           </Link>
         </div>
