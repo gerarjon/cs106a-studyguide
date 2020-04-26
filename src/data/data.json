@@ -50,5 +50,17 @@
       "https://www.youtube.com/embed/SQ2_cDLgrHI?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=15",
       "https://www.youtube.com/embed/_rMzEF0v6UI?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=17"
     ]
+  },
+  {
+    "id" : 6,
+    "title" : "Lecture 6 - Control Flow Python",
+    "video" : [
+      "https://www.youtube.com/embed/60AMFkbGZGY?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=1",
+      "https://www.youtube.com/embed/c6CZIQ3UFZE?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=3",
+      "https://www.youtube.com/embed/Y_IWN4OxhlM?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=5",
+      "https://www.youtube.com/embed/Y7evkU5j7TY?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=7",
+      "https://www.youtube.com/embed/5BTJ4gVXaFQ?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=9",
+      "https://www.youtube.com/embed/mVoerPV6YLY?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=11"
+    ]
   }
 ]
