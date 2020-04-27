@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cs106a-studyguide/static/css/main.ef9f4fb7.chunk.css",
-    "main.js": "/cs106a-studyguide/static/js/main.215aa8a8.chunk.js",
-    "main.js.map": "/cs106a-studyguide/static/js/main.215aa8a8.chunk.js.map",
+    "main.js": "/cs106a-studyguide/static/js/main.d8af7a6e.chunk.js",
+    "main.js.map": "/cs106a-studyguide/static/js/main.d8af7a6e.chunk.js.map",
     "runtime-main.js": "/cs106a-studyguide/static/js/runtime-main.f0f26d9c.js",
     "runtime-main.js.map": "/cs106a-studyguide/static/js/runtime-main.f0f26d9c.js.map",
     "static/css/2.cd1899df.chunk.css": "/cs106a-studyguide/static/css/2.cd1899df.chunk.css",
     "static/js/2.0b80d715.chunk.js": "/cs106a-studyguide/static/js/2.0b80d715.chunk.js",
     "static/js/2.0b80d715.chunk.js.map": "/cs106a-studyguide/static/js/2.0b80d715.chunk.js.map",
     "index.html": "/cs106a-studyguide/index.html",
-    "precache-manifest.9e4557ce6950f157c38b61ac115bbb8c.js": "/cs106a-studyguide/precache-manifest.9e4557ce6950f157c38b61ac115bbb8c.js",
+    "precache-manifest.85936cc8fd34d3109ff54c55ccb911f7.js": "/cs106a-studyguide/precache-manifest.85936cc8fd34d3109ff54c55ccb911f7.js",
     "service-worker.js": "/cs106a-studyguide/service-worker.js",
     "static/css/2.cd1899df.chunk.css.map": "/cs106a-studyguide/static/css/2.cd1899df.chunk.css.map",
     "static/css/main.ef9f4fb7.chunk.css.map": "/cs106a-studyguide/static/css/main.ef9f4fb7.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.cd1899df.chunk.css",
     "static/js/2.0b80d715.chunk.js",
     "static/css/main.ef9f4fb7.chunk.css",
-    "static/js/main.215aa8a8.chunk.js"
+    "static/js/main.d8af7a6e.chunk.js"
   ]
 }

@@ -62,5 +62,16 @@
       "https://www.youtube.com/embed/5BTJ4gVXaFQ?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=9",
       "https://www.youtube.com/embed/mVoerPV6YLY?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=11"
     ]
+  },
+  {
+    "id" : 7,
+    "title" : "Lecture 7 - Function Revisited",
+    "video" : [
+      "https://www.youtube.com/embed/wY68LUvnJ04?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=1",
+      "https://www.youtube.com/embed/hmcuptr9WBE?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=3",
+      "https://www.youtube.com/embed/lZ8DGnIRsng?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=5",
+      "https://www.youtube.com/embed/CS-BMynY5ko?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=7",
+      "https://www.youtube.com/embed/8vXvRwj8fos?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=9"
+    ]
   }
 ]

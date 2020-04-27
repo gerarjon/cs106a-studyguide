@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e3f1bcf889a39c8ed9dcec486c7bfd3",
+    "revision": "c7e8871c7dfeece9a44c20fed16b7a74",
     "url": "/cs106a-studyguide/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cs106a-studyguide/static/css/2.cd1899df.chunk.css"
   },
   {
-    "revision": "3aff4e2d05680560d6e7",
+    "revision": "c77f999b3782b1421d2d",
     "url": "/cs106a-studyguide/static/css/main.ef9f4fb7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cs106a-studyguide/static/js/2.0b80d715.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3aff4e2d05680560d6e7",
-    "url": "/cs106a-studyguide/static/js/main.215aa8a8.chunk.js"
+    "revision": "c77f999b3782b1421d2d",
+    "url": "/cs106a-studyguide/static/js/main.d8af7a6e.chunk.js"
   },
   {
     "revision": "a4b0b776342a264e921c",
