@@ -118,5 +118,16 @@
       "https://www.youtube.com/embed/g0G4S_woMRA?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=17",
       "https://www.youtube.com/embed/XcvbczJF6CU?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=19"
     ]
+  },
+  {
+    "id" : 12,
+    "title" : "Lecture 12 - Lists",
+    "video" : [
+      "https://www.youtube.com/embed/QioUAmUAIgE?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=1",
+      "https://www.youtube.com/embed/A-NrRd9GyYg?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=3",
+      "https://www.youtube.com/embed/vhknJZ-2Bzg?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=5",
+      "https://www.youtube.com/embed/w4beNu04CMs?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=7",
+      "https://www.youtube.com/embed/L_TyVmOQq-I?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=9"
+    ]
   }
 ]
