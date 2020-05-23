@@ -129,5 +129,18 @@
       "https://www.youtube.com/embed/w4beNu04CMs?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=7",
       "https://www.youtube.com/embed/L_TyVmOQq-I?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=9"
     ]
+  },{
+    "id" : 13,
+    "title" : "Lecture 13 - Text Procession",
+    "video" : [
+      "https://www.youtube.com/embed/BQQVnsE2DZI?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=13",
+      "https://www.youtube.com/embed/xRhjkyJHFbE?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=15",
+      "https://www.youtube.com/embed/MOhsuyHr6fU?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=17",
+      "https://www.youtube.com/embed/fNChmzR6rVs?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=19",
+      "https://www.youtube.com/embed/SnJYJHmNW7s?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=21",
+      "https://www.youtube.com/embed/-cIzBBzTnK8?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=23",
+      "https://www.youtube.com/embed/PB4tJZHdcAk?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=25",
+      "https://www.youtube.com/embed/BbE4dnoAmXs?rel=0?enablejsapi=1&origin=https%3A%2F%2Fcompedu.stanford.edu&widgetid=27"
+    ]
   }
 ]
